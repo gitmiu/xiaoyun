@@ -1,0 +1,141 @@
+@charset 'utf-8';
+
+.container {
+    // width: 1200px;
+    padding-left: auto;
+    padding-right: auto;
+}
+.navbar .container {
+    // width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#simple-carousel img{
+	max-width: 100%;
+	height: auto;
+}
+
+
+.carousel-caption {
+	margin-top: 0px;
+    top:0;
+    left: 5%;
+    width: 100%;
+}
+.carousel-caption .d1 {
+    font-size: 18px;
+}
+.carousel-caption .d2 {
+    font-size: 50px;
+}
+.jumbotron {
+    padding: 80px 30px;
+}
+h1.title {
+    font-size: 36px;
+}
+p.desc {
+    font-size: 24px;
+    padding-top: 22px;
+}
+
+.bnb{
+	text-align: center;
+	padding: 80px 45px;
+}
+.bnb .w90{
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+.links2{
+	height: 400px;
+    min-height: 400px;
+    background: #666;
+    overflow: hidden;
+}
+
+.links2 h3 {
+    font-size: 18px;
+    color: #fff;
+    margin: 36px 0;
+}
+
+#control-carousel {
+    padding:0 0 35px 0;
+}
+.links2 img{
+	width: 120px;
+	height: auto;
+}
+#control-carousel .item a {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    padding: 15px;
+}
+.links2 .carousel-inner{
+	width: 320px;
+	margin: 0 auto;
+	padding: 0;
+}
+.links2 .item{
+	padding: 0 34px;
+}
+
+.bn4 {
+	background: url(../images/bn4bg914.png) no-repeat center;
+    height: 220px;
+    background-size:auto 120%;
+}
+
+
+footer .ft_top ul {
+    padding-top: 20px;
+    padding-bottom: 12px;
+    margin-bottom: 0;
+}
+footer .ft_top ul li{
+	margin-bottom: 48px;
+	text-align: center;
+}
+footer .ft_top ul a {
+    font-size: 24px;
+    line-height: 24px;
+    color: #38485a;
+}
+
+
+footer .call {
+    float: none;
+    margin: 0 auto;
+    width: 150px;
+    height: 28px;
+    border: 1px solid #fa460a;
+    line-height: 28px;
+    color: #38485A;
+    text-indent: -9999px;
+    background: url(../images/icon_01.png) no-repeat;
+    border-radius: 50px;
+    background-size: 100%;
+}
+
+footer .ft_bottom{
+	font-size: 16px;
+}
+footer .ft_bottom p{
+	margin: 0 0 10px 0;
+}
+.backtop{
+	margin-top: 50px;
+}
+.backtop img{
+	width: 50px;
+	height: 50px;
+}
+
+
+
+
+
